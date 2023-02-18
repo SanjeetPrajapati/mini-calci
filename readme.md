@@ -1,6 +1,8 @@
 ### Mini Calculator by SANJEET
 ## math.js library used
 
+# https://sanjeetprajapati.github.io/mini-calci/
+
 This is a simple calculator built using HTML, CSS, and JavaScript. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 
